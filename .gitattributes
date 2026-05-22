@@ -1,0 +1,4 @@
+Case[[:space:]]study[[:space:]]1/data/raw/*.csv filter=lfs diff=lfs merge=lfs -text
+Case[[:space:]]study[[:space:]]1/data/processed/*.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/*.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/*.csv filter=lfs diff=lfs merge=lfs -text
