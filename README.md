@@ -28,6 +28,7 @@ Through analysis of 12 months of Divvy trip data (August 2024 - August 2025), I 
 ### Executive Workforce Snapshot
 
 ![Dashboard Overview](reports/visuals/rides_per_month.png)
+
 (Rides per Month - Members vs Casual)
 
 **What data shows**
@@ -45,6 +46,7 @@ The data reveals distinct behavioral patterns between member and casual users th
 ### Duration Analysis by User Type
 
 ![Duration Mean](reports/visuals/duration_mean_by_user.png)
+
 (Duration Mean by User Type)
 
 **What data shows**
@@ -60,6 +62,7 @@ Casual users may be using bikes for leisure, tourism, or occasional transportati
 ### Weekly Usage Patterns
 
 ![Heatmap](reports/visuals/rides_heatmap.png)
+
 (Number of Rides per Day x User Type)
 
 **What the data shows**
@@ -72,6 +75,7 @@ Casual riders show concentrated usage on weekends (Saturday and Sunday), while m
 ### Monthly Trends
 
 ![Monthly](reports/visuals/rides_per_month.png)
+
 (Number of Rides per Month - Members vs Casual)
 
 **What the data shows**
